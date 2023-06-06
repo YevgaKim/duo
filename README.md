@@ -1,0 +1,1 @@
+This program makes your duolingo lessons by itself. But only with super(premium).
